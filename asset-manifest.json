@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expense-Monitor-App/static/css/main.6372f5ed.css",
+    "main.js": "/Expense-Monitor-App/static/js/main.143e217e.js",
+    "static/js/787.a7f2c7df.chunk.js": "/Expense-Monitor-App/static/js/787.a7f2c7df.chunk.js",
+    "index.html": "/Expense-Monitor-App/index.html",
+    "main.6372f5ed.css.map": "/Expense-Monitor-App/static/css/main.6372f5ed.css.map",
+    "main.143e217e.js.map": "/Expense-Monitor-App/static/js/main.143e217e.js.map",
+    "787.a7f2c7df.chunk.js.map": "/Expense-Monitor-App/static/js/787.a7f2c7df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6372f5ed.css",
+    "static/js/main.143e217e.js"
+  ]
+}
